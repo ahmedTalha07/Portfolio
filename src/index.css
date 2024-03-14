@@ -1,0 +1,36 @@
+/* styles.css */
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+/* Your custom styles go here */
+body {
+  background-color: black;
+}
+.lobster-two-regular {
+  font-family: "Lobster Two", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.header-trans {
+  margin: 0 50px;
+}
+/* In your CSS or React component styles */
+.text-2xl {
+  font-family: pacifico, cursive;
+  margin-top: 150px;
+  transform: rotate(-3deg);
+
+}
+.text-3xl {
+  text-shadow: 1px -1px 1px white;
+}
+
+/* .stokes {
+  color: rgb(37, 37, 37);
+  font-size: 40px;
+  -webkit-text-stroke: 0.5px white;
+} */
+.laptop{
+  position: relative;
+}
