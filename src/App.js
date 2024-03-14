@@ -25,7 +25,7 @@ const App = () => {
         <div className='grid header-trans'>
           {/* <h1 className='text-xl mt-5 lobster-two-regular grid justify-center items-center text-white'>👋 Hi there, I'm Talha Ahmed</h1> */}
           
-          <p className='text-white text-2xl font-pacifico-cursive'><span className='text-3xl'>👋</span> Hi there, I'm Talha Ahmed and I want to change this</p>
+          <p className='text-white text-2xl font-pacifico-cursive'><span className='text-3xl'>👋</span> Hi there, I'm Talha Ahmed</p>
          <span className='mt-5 mb-8 migraine-x'>
           <MainHeading/>
           </span>  
