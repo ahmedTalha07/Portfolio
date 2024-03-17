@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 
 const Navigation = () => {
   return (
-    <header role={"banner"} className='container mx-auto px-8rem text-lg text-white mt-4'>
+    <header role={"banner"} className='container mx-auto px-8rem text-lg mt-4'>
     
       <div className='grid grid-cols-3 rounded-full border-[#DC143C] overflow-hidden border leading-10  header-inner justify-between'>
 

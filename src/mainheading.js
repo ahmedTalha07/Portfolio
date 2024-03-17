@@ -18,7 +18,7 @@ const MainHeading = () => {
         textShadow:
           "-1px -1px 0 rgb(255, 0, 0), 1px -1px 0 rgb(255, 0, 0), -1px 1px 0 rgb(255, 0, 0), 1px 1px 0 rgb(255, 0, 0)",
         display: "inline-block",
-        color: "black",
+        color: "white",
       }}
     />
   );
